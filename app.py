@@ -82,3 +82,12 @@ if result:
         os.mkdir("temp")
     except:
         pass
+
+
+st.markdown("""
+    <style>
+        .stApp {
+            background-color: #c7c8ca;
+        }
+    </style>
+""", unsafe_allow_html=True)

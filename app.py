@@ -29,7 +29,7 @@ client1.on_message = on_message
 
 
 st.title("INTERFACES MULTIMODALES")
-st.subheader("CONTROL POR VOZ")
+st.subheader("Esta app usa el comando de voz para el control de un sistema")
 
 image = Image.open('comandovoz.jpg')
 
